@@ -14,4 +14,4 @@
 
 ## 📫 Reach me
 - Email: anantrajput.off@gmail.com  
-- LinkedIn: [add your link here]
+- LinkedIn: www.linkedin.com/in/anantrajputt
