@@ -9,8 +9,8 @@
 - C Programming — university coursework  
 
 ## 🛠️ Projects
-- **Password Strength Checker** — Python mini project  
-- **CS50P Problem Sets** — check the repo below  
+- **[Hangman Game](https://github.com/Anant2106/Hangman-Python)**
+     CLI-based Python game with random word selection, lives tracker, and ASCII art 
 
 ## 📫 Reach me
 - Email: anantrajput.off@gmail.com  
